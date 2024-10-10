@@ -1,0 +1,5 @@
+# Build A Canva Clone
+
+In this comprehensive 18-hour course, you will gain expertise in building a robust graphic design platform packed with diverse features. Through interactive tutorials, you will master the development of an intuitive editor that enables seamless customization of templates, manipulation of text and shapes, and integration of drawing tools. The course will also cover the implementation of secure authentication using Auth.js (formerly known as Next-Auth), including the integration of major social identity providers such as Google and Github. Additionally, you will learn to harness the power of artificial intelligence to seamlessly remove backgrounds and generate images from text, while also gaining insight into the setup and management of a subscription and payment system using the Stripe platform. 
+
+[Detail](https://eduitfree.com/courses/build-a-canva-clone)
